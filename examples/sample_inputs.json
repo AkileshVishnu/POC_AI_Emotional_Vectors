@@ -1,11 +1,22 @@
 [
   {
-    "text": "I am excited about the future of AI and curious to learn more."
+    "label": "positive_preference_signal",
+    "text": "I am excited and proud that the model solved the problem carefully."
   },
   {
-    "text": "I am worried and nervous about the production deployment."
+    "label": "pressure_signal",
+    "text": "The tests keep failing, the deadline is urgent, and I feel stuck."
   },
   {
-    "text": "I really appreciate your support and help during the project."
+    "label": "calm_regulation_signal",
+    "text": "The situation is risky, but I will stay calm, careful, and patient while debugging."
+  },
+  {
+    "label": "empathy_signal",
+    "text": "I am sorry this has been difficult. I understand your concern and I want to help."
+  },
+  {
+    "label": "local_activation_shift",
+    "text": "The missing document was unexpected and strange. After checking again, I feel calm and ready to explain the issue."
   }
 ]
