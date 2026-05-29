@@ -176,17 +176,7 @@ Released under the **MIT License**. See [`LICENSE`](./LICENSE).
 
 ---
 
-## Citation
 
-```bibtex
-@misc{akilesh2026emotionvectors,
-  title        = {Emotion Vectors: A Transparent Proxy for Functional Emotions in LLMs (POC \#Ak-AI-001)},
-  author       = {Akilesh Vishnu},
-  year         = {2026},
-  howpublished = {\url{https://github.com/AkileshVishnu/POC_Ak_AI_001_Do_LLMs_Feel_Emotion}},
-  note         = {Educational proxy inspired by Anthropic (2026), Emotion Concepts and their Function in a Large Language Model}
-}
-```
 
 ---
 
